@@ -1,0 +1,15 @@
+{
+              "request": {
+              "method": "GET",
+              "endpoint": "www.trumpfruittest.com/getfruits"
+              },
+              
+              "response": {
+              "statusCode": 200,
+              "data": {
+              "fruits": ["apple", "orange", "banana"]
+              }
+              }
+              
+}
+

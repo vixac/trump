@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "endpoint": "www.trumpvegtest.com"
+    },
+    
+    "response": {
+        "statusCode": 300,
+        "data": {
+            "vegetables": ["celery", "brocolli"]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+ {
+              "request": {
+              "method": "GET",
+              "endpoint": "www.trumpanimaltest.com"
+              },
+              
+              "response": {
+              "statusCode": 300,
+              "data":  ["cat", "dog"]
+              }
+}
+

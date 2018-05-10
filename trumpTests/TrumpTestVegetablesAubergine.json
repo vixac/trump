@@ -1,0 +1,14 @@
+{
+    
+    "request": {
+        "method": "GET",
+        "endpoint": "www.trumpvegtest.com"
+    },
+    
+    "response": {
+        "statusCode": 301,
+        "data": {
+            "vegetables": ["aubergine", "carrot"]
+        }
+    }
+}
